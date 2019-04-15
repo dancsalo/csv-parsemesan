@@ -1,0 +1,38 @@
+{
+  "object": [
+    [
+      "boolean",
+      "MONTH(day)",
+      "SUM(count)"
+    ],
+    [
+      true,
+      "November 2017",
+      34990
+    ],
+    [
+      false,
+      "November 2017",
+      20514
+    ]
+  ],
+  "data": {
+    "headers": [
+      "boolean",
+      "MONTH(day)",
+      "SUM(count)"
+    ],
+    "rows": [
+      [
+        "True",
+        "November 2017",
+        "34990"
+      ],
+      [
+        "False",
+        "November 2017",
+        "20514"
+      ]
+    ]
+  }
+}

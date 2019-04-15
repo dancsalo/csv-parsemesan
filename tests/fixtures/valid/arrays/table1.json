@@ -1,0 +1,48 @@
+{
+  "object": [
+    [
+      "County Name",
+      "Hospital ID Name",
+      "Measure ID",
+      "Measure Name",
+      "Selected Hospital",
+      "AGG(RANK_PERCENTILE(AVG(-[Score])))",
+      "AGG(selected Hospital percentile)",
+      "AVG(Score)"
+    ],
+    [
+      "LAKE",
+      "Vista Medical Center East (Waukegan, IL)",
+      "MORT_30_COPD",
+      "Death rate for chronic obstructive pulmonary disease (COPD) patients",
+      "⚫ ",
+      1,
+      1,
+      null
+    ]
+  ],
+  "data": {
+    "headers": [
+      "County Name",
+      "Hospital ID Name",
+      "Measure ID",
+      "Measure Name",
+      "Selected Hospital",
+      "AGG(RANK_PERCENTILE(AVG(-[Score])))",
+      "AGG(selected Hospital percentile)",
+      "AVG(Score)"
+    ],
+    "rows": [
+      [
+        "LAKE",
+        "Vista Medical Center East (Waukegan, IL)",
+        "MORT_30_COPD",
+        "Death rate for chronic obstructive pulmonary disease (COPD) patients",
+        "⚫ ",
+        "1",
+        "1",
+        "None"
+      ]
+    ]
+  }
+}
